@@ -1,0 +1,15 @@
+com/trainging/domain/entities/CourseInfo.class
+com/trainging/domain/entities/StudentInfo.class
+com/trainging/util/Constants.class
+com/trainging/domain/datasource/CourseInfoDataSource.class
+com/trainging/reports/studentmarks/StudentCourseParams.class
+com/trainging/reports/common/Report.class
+com/trainging/reports/common/Collector.class
+com/trainging/reports/studentmarks/StudentCourseSummaryReport.class
+com/trainging/reports/studentmarks/StudentCourseDataFormatter.class
+com/trainging/reports/studentmarks/StudentCourseDataCollector.class
+com/trainging/Main.class
+com/trainging/domain/datasource/StudentCourseInfoDataSource.class
+com/trainging/domain/datasource/StudentInfoDataSource.class
+com/trainging/domain/entities/StudentCourseInfo.class
+com/trainging/reports/common/Formatter.class

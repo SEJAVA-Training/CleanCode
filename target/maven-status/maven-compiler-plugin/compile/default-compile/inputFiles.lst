@@ -1,0 +1,15 @@
+/Users/abalaith/work/SETraining/src/main/java/com/trainging/util/Constants.java
+/Users/abalaith/work/SETraining/src/main/java/com/trainging/domain/datasource/CourseInfoDataSource.java
+/Users/abalaith/work/SETraining/src/main/java/com/trainging/reports/studentmarks/StudentCourseDataFormatter.java
+/Users/abalaith/work/SETraining/src/main/java/com/trainging/domain/datasource/StudentInfoDataSource.java
+/Users/abalaith/work/SETraining/src/main/java/com/trainging/domain/datasource/StudentCourseInfoDataSource.java
+/Users/abalaith/work/SETraining/src/main/java/com/trainging/reports/common/Formatter.java
+/Users/abalaith/work/SETraining/src/main/java/com/trainging/reports/studentmarks/StudentCourseParams.java
+/Users/abalaith/work/SETraining/src/main/java/com/trainging/domain/entities/StudentCourseInfo.java
+/Users/abalaith/work/SETraining/src/main/java/com/trainging/reports/common/Collector.java
+/Users/abalaith/work/SETraining/src/main/java/com/trainging/reports/common/Report.java
+/Users/abalaith/work/SETraining/src/main/java/com/trainging/domain/entities/StudentInfo.java
+/Users/abalaith/work/SETraining/src/main/java/com/trainging/reports/studentmarks/StudentCourseDataCollector.java
+/Users/abalaith/work/SETraining/src/main/java/com/trainging/domain/entities/CourseInfo.java
+/Users/abalaith/work/SETraining/src/main/java/com/trainging/reports/studentmarks/StudentCourseSummaryReport.java
+/Users/abalaith/work/SETraining/src/main/java/com/trainging/Main.java
